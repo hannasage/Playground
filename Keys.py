@@ -1,0 +1,25 @@
+# KEYS #
+picks = 'picks'
+bans = 'bans'
+playerid = 'playerid'
+champion = 'champion'
+team = 'team'
+ban_keys = ('ban1', 'ban2', 'ban3', 'ban4', 'ban5')
+totalgold = 'totalgold'
+goldat10 = 'goldat10'
+oppgoldat10 = 'oppgoldat10'
+gdat10 = 'gdat10'
+goldat15 = 'goldat15'
+oppgoldat15 = 'oppgoldat15'
+gdat15 = 'gdat15'
+gamelength = 'gamelength'
+
+# TEAMS #
+GRF = 'Griffin'
+G2 = 'G2 Esports'
+SKT = 'SK Telecom T1'
+FNC = 'Fnatic'
+IG = 'Invictus Gaming'
+DMW = 'Damwon Gaming'
+FPX = 'Funplus Phoenix'
+SPY = 'Splyce'
