@@ -1,5 +1,6 @@
 import csv
 import Keys as key
+import Evaluation as eval
 import plotly.graph_objects as go
 
 input_file = csv.DictReader(open("C:/Users/Kevin/PycharmProjects/leagueoflegends/2019worldsOE.csv"))
@@ -27,4 +28,5 @@ def gatherStats(*args):
 
 
 stats = gatherStats(key.dmgtochamps)
-print(stats)
+print(eval.averageStat(key.dmgtochamps, stats[key.SKT]))
+print(eval.averageStat(key.dmgtochamps, stats[key.G2]))
