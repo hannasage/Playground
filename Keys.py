@@ -1,4 +1,6 @@
 # KEYS #
+player = 'player'
+position = 'position'
 picks = 'picks'
 bans = 'bans'
 playerid = 'playerid'
@@ -13,6 +15,9 @@ goldat15 = 'goldat15'
 oppgoldat15 = 'oppgoldat15'
 gdat15 = 'gdat15'
 gamelength = 'gamelength'
+dmgtochamps = 'dmgtochamps'
+dmgtochampsperminute = 'dmgtochampsperminute'
+dmgshare = 'dmgshare'
 
 # TEAMS #
 GRF = 'Griffin'
